@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# v0.3 - no correct data yet. fixed jquery setup
+index.html
+jquery.mobile-1.3.1.min.css
+js/data.js
+js/main.js
+js/mustache.js
+js/mustache-data.js
+js/jquery-1.9.1.min.js
+js/jquery.mobile-1.3.1.min.js
+images/ajax-loader.gif
+images/icons-18-black.png
+images/icons-18-white.png
+images/icons-36-black.png
+images/icons-36-white.png
+
